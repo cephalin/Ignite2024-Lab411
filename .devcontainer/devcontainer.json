@@ -3,14 +3,12 @@
   "features": {
     "ghcr.io/devcontainers/features/azure-cli:1": {}
   },
+  "hostRequirements": {
+    "memory": "16gb"
+  },
   "customizations": {
 		"vscode": {
 			"extensions": [
-        "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azureappservice",
-        "ms-azuretools.vscode-azureresourcegroups",
-        "ms-dotnettools.vscode-dotnet-pack",
-        "ms-dotnettools.csdevkit"
       ]
 		}
 	}
