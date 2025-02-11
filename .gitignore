@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+src/phi-3-sidecar/Phi-3-mini-4k-instruct-onnx/
